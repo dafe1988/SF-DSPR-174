@@ -52,7 +52,7 @@ def game_core_v3(number: int = 1) -> int:
     count = 0
     start = 1
     end = 101
-    predict_number = np.random.randint(1,101) # предполагаемое число
+    predict_number = midpoint(start,end) # предполагаемое число
     
     while number != predict_number:
         
