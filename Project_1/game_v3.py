@@ -49,7 +49,7 @@ def game_core_v3(number: int = 1) -> int:
     Returns:
         int: Число попыток
     """
-    count = 1
+    count = 0
     start = 1
     end = 101
     predict_number = np.random.randint(1,101) # предполагаемое число

@@ -1,0 +1,81 @@
+boltons @ file:///work/ci_py311/boltons_1677685195580/work
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+conda @ file:///croot/conda_1696257509808/work
+conda-content-trust @ file:///croot/conda-content-trust_1693490622020/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1696257536937/work/src
+conda-package-handling @ file:///croot/conda-package-handling_1690999929514/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1690987966409/work
+contourpy==1.2.0
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.12.1
+diskcache==5.6.3
+filelock==3.13.1
+fire==0.6.0
+fonttools==4.44.0
+fsspec==2023.12.1
+idna @ file:///work/ci_py311/idna_1676822698822/work
+Jinja2==3.1.2
+joblib @ file:///croot/joblib_1685113087166/work
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+kiwisolver==1.4.5
+libmambapy @ file:///croot/mamba-split_1694187754698/work/libmambapy
+llama_cpp_python==0.2.70
+llvmlite==0.41.1
+MarkupSafe==2.1.3
+matplotlib==3.8.1
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+more-itertools==10.1.0
+mpmath==1.3.0
+networkx==3.2.1
+numba==0.58.1
+numpy==1.26.2
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.18.1
+nvidia-nvjitlink-cu12==12.3.101
+nvidia-nvtx-cu12==12.1.105
+openai-whisper @ git+https://github.com/openai/whisper.git@e58f28804528831904c3b6f2c0e473f346223433
+packaging @ file:///croot/packaging_1693575174725/work
+pandas==2.1.3
+pika==1.1.0
+Pillow==10.1.0
+pluggy @ file:///work/ci_py311/pluggy_1676822818071/work
+pycosat @ file:///croot/pycosat_1696536503704/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.8.2
+pytz==2023.3.post1
+regex==2023.10.3
+requests @ file:///croot/requests_1690400202158/work
+ruamel.yaml @ file:///work/ci_py311/ruamel.yaml_1676838772170/work
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scipy @ file:///croot/scipy_1696543286448/work/dist/scipy-1.11.3-cp311-cp311-linux_x86_64.whl#sha256=f14db5b9e7e3d9de204ef7756f1a1f40f0983293019ed8eacb32191e2f658f9f
+seaborn==0.13.0
+six==1.16.0
+sympy==1.12
+termcolor==2.4.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tiktoken==0.5.2
+torch==2.1.1
+tqdm @ file:///croot/tqdm_1679561862951/work
+triton==2.1.0
+truststore @ file:///croot/truststore_1695244293384/work
+typing_extensions==4.8.0
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1686163155763/work
+zstandard @ file:///work/ci_py311_2/zstandard_1679339489613/work
