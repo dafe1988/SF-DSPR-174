@@ -75,5 +75,5 @@
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
 
 
-**USAGE:** Запустите файл [Project_1/project_1_game.ipynb](https://github.com/dafe1988/SF-DSPR-174/blob/main/Project_1/project_1_game.ipynb) через Jupiter Notebook
+**USAGE:** Запустите файл [Churn for Bank Customers.ipynb](/Churn_for_bank_customers/Churn for Bank Customers.ipynb) через Jupiter Notebook
 
