@@ -8,4 +8,4 @@ From the [Skillfactory Data Science course 2024](https://skillfactory.ru/data-sc
 * [Project 0_1. Игра: Угадай число](https://github.com/dafe1988/SF-DSPR-174/tree/master/Project_0_1)
 * [Исследование оттока клиентов банка с визуализациями plotly](https://github.com/dafe1988/SF-DSPR-174/tree/master/Churn_for_bank_customers)
 * [DataCleaningProject. Задача очистки данных о квартирах в Москве](https://github.com/dafe1988/SF-DSPR-174/tree/master/DataCleaningProject)
-* [Project 1. _________](_____)
+* [PROJECT-1. Анализ резюме из HeadHunter](_____)
