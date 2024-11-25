@@ -80,7 +80,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Фесенко%20Дарья%20Степановна](https://www.kaggle.com/dariafesenko)
+* [Фесенко Дарья Степановна](https://www.kaggle.com/dariafesenko)
 
 ## Выводы
 
