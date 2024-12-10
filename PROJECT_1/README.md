@@ -5,10 +5,13 @@
 1. [Описание проекта](#Описание-проекта)
 2. [Описание данных](#Описание-данных)
 3. [Зависимости](#Зависимости)
-4. [Установка проекта](#Установка-проекта)
-5. [Использование проекта](#Использование-проекта)
-6. [Авторы](#Авторы)
-7. [Выводы](Использование-проекта)
+4. [Использование проекта](#Использование-проекта)
+5. [Авторы](#Авторы)
+6. [Выводы](#Выводы)
+
+
+Решение в Colab сразу с интерактивной демонстрацией всех графиков plotly можно найти [здесь](https://colab.research.google.com/drive/1Y6kogOERlDJ5LtcSj-rFzRAFKYnJlYJh?usp=sharing)
+
 
 ## Описание проекта
 
@@ -46,7 +49,7 @@
 
 * [Project-1._Ноутбук-решение.ipynb.ipynb](https://github.com/dafe1988/SF-DSPR-174/blob/master/Project-1._Ноутбук-решение.ipynb.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором представлено решение
 * [Pipfile](https://github.com/dafe1988/SF-DSPR-174/blob/master/PROJECT_1/Pipfile) - файл с зависимостями в среде pipenv
-* [/plotly]() - директория с графиками plotly как html
+* [/plotly](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT_1/plotly) - директория с графиками plotly как html
 * Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: скачать её вы можете [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip).
 * Решение в Colab сразу с интерактивной демонстрацией всех графиков plotly можно найти [здесь](https://colab.research.google.com/drive/1Y6kogOERlDJ5LtcSj-rFzRAFKYnJlYJh?usp=sharing)
 
@@ -57,7 +60,7 @@
 Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
 
-## Используемые зависимости
+## Зависимости
 * Python (3.12):
     * [numpy](https://numpy.org)
     * [pandas](https://pandas.pydata.org)
@@ -79,4 +82,5 @@ pipenv shell
 * [Фесенко Дарья Степановна](https://www.kaggle.com/dariafesenko)
 
 ## Выводы
+
 Частные выводы по каждому пункту исследования прмведены в ноутбуке с решением
