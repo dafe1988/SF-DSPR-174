@@ -43,11 +43,11 @@
 **Данный проект** направлен на демонстрацию методов базового анализа данных, использование различных видов визуализации, методов преобразования данных, разведывательного анализа, а также очистки данных
 
 **О структуре проекта:**
-* [data](./data) - папка с исходными табличными данными - добавлена в gitignore. Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+
 * [Project-1._Ноутбук-решение.ipynb.ipynb](./Project-1._Ноутбук-решение.ipynb.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором представлено решение
+* [Pipfile](./PROJECT_1/Pipfile) - файл с зависимостями в среде pipenv
 * Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: скачать её вы можете [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip).
 * Решение в Colab сразу с интерактивной демонстрацией всех графиков plotly можно найти [здесь](https://colab.research.google.com/drive/1Y6kogOERlDJ5LtcSj-rFzRAFKYnJlYJh?usp=sharing)
-* [Pipfile](./PROJECT_1/Pipfile) - файл с зависимостями в среде pipenv
 
 
 ## Описание данных
