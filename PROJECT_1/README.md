@@ -84,3 +84,6 @@ pipenv shell
 ## Выводы
 
 Частные выводы по каждому пункту исследования прмведены в ноутбуке с решением
+
+
+[отзыв ментора курса](https://docs.google.com/document/d/1A_yQWgoO-Q2XnDh-d_QYvXM3-z7RGboHC0LZ5Zo2jiI/edit?tab=t.0)
