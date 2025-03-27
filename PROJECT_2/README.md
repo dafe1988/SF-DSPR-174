@@ -9,8 +9,6 @@
 6. [Выводы](#Выводы)
 
 
-Решение в Colab сразу с интерактивной демонстрацией всех графиков plotly можно найти [здесь]()
-
 
 ## Описание проекта
 
@@ -46,38 +44,48 @@
 
 **О структуре проекта:**
 
-* [Project-2._Ноутбук-решение.ipynb.ipynb]() - jupyter-ноутбук, содержащий основной код проекта, в котором представлено решение
-* [Pipfile]() - файл с зависимостями в среде pipenv
-* [/plotly]() - директория с графиками plotly как html
+* [Project-2._Ноутбук-решение.ipynb.ipynb](https://github.com/dafe1988/SF-DSPR-174/blob/master/PROJECT_2/Project_2_Ноутбук_решение.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором представлено решение
+* [Pipfile](https://github.com/dafe1988/SF-DSPR-174/blob/master/PROJECT_2/Pipfile) - файл с зависимостями в среде pipenv
+* [/plotly](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT_2/plotly) - директория с графиками plotly как html
 * Решение в Colab сразу с интерактивной демонстрацией всех графиков plotly можно найти [здесь](https://colab.research.google.com/drive/1Y6kogOERlDJ5LtcSj-rFzRAFKYnJlYJh?usp=sharing)
 
 
 ## Описание данных
 
 **Схема данных**
+
 ![](./pics/pic.png)
 
 **Познакомимся с каждой таблицей**
 
-[VACANCIES](./pics/vacancies.png)
+#### VACANCIES
+
+![](./pics/vacancies.png)
 
 Таблица хранит в себе данные по вакансиям.
 
 Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли). Соискателям она показывает, в каком диапазоне компания готова платить сотруднику на этой должности.
 
-[AREAS](./areas.png)
+#### AREAS
+![](./areas.png)
 
 Таблица-справочник, которая хранит код региона и его название.
 
-[EMPLOYERS](./pics/employers.png)
+#### EMPLOYERS
+
+![](./pics/employers.png)
 
 Таблица-справочник со списком работодателей.
 
-[INDUSTRIES](./pics/industries.png)
+#### INDUSTRIES
+
+![](./pics/industries.png)
 
 Таблица-справочник вариантов сфер деятельности работодателей.
 
-[EMPLOYERS_INDUSTRIES](./pics/employers_industries.png)
+#### EMPLOYERS_INDUSTRIES
+
+![](./pics/employers_industries.png)
 
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
@@ -104,11 +112,11 @@ sudo apt install libpq-dev
 
 Для установки зависимостей используйте Pipfile:
 ```py
-pipenv shell
+pipenv install 
 ```
 
 ## Использование проекта
-Вся информация о работе представлена в jupyter-ноутбуке `Project-2._Ноутбук-решение.ipynb.ipynb`.
+Вся информация о работе представлена в jupyter-ноутбуке `Project-2._Ноутбук-решение.ipynb`.
 
 
 ## Авторы
