@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+plotly = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+psycopg2 = "*"
+nbformat = "*"
+requests = "*"
+bs4 = "*"
+
+[dev-packages]
+jupyter = "*"
+notebook = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
