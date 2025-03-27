@@ -11,6 +11,9 @@ matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 psycopg2 = "*"
+nbformat = "*"
+requests = "*"
+bs4 = "*"
 
 [dev-packages]
 jupyter = "*"
