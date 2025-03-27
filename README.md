@@ -23,3 +23,7 @@ From the [Skillfactory Data Science course 2024](https://skillfactory.ru/data-sc
 * [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT_1)
 
 Анализ резюме из HeadHunter
+
+* [PROJECT-2. Анализ вакансий из HeadHunter](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT_2)
+
+Анализ вакансий из HeadHunter используя SQL-запросы к базе данных
