@@ -4,6 +4,9 @@
 *$py.class
 **/data/
 
+# Игнорировать большие промежуточные ноуты
+output_*.ipynb
+
 # C extensions
 *.so
 
