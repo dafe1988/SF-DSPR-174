@@ -3,6 +3,7 @@
 *.py[cod]
 *$py.class
 **/data/
+*/.vscode/
 
 # Игнорировать большие промежуточные ноуты
 output_*.ipynb
