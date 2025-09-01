@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+ipykernel = "*"
+jupyter = "*"
+
+[packages]
+pandas = "==2.0.1"
+numpy = "==1.24.2"
+scikit-learn = "==1.2.2"
+plotly = "*"
+
+[requires]
+python_version = "3.10"
