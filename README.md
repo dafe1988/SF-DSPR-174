@@ -116,7 +116,7 @@
 
 ---
 
-* [PROJECT - MATH&ML-13. Временные ряды. Часть II](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT - MATH%26ML-13. Временные ряды)
+* [PROJECT - MATH&ML-13. Временные ряды. Часть II](https://github.com/dafe1988/SF-DSPR-174/tree/master/PROJECT%20-%20MATH%26ML-13.%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B)
 
 > Проект по анализу ВВП африканской страны Гана, исследование временного ряда, изучение его свойства, построение модели и выводы по результатам.
 
